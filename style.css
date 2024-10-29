@@ -1,0 +1,12 @@
+html, .whole{
+    background-color: antiquewhite;
+   
+}
+
+.container{
+    background-color: aliceblue;
+    color:darkblue;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 10px 5px 5px rgba(0, 23, 126, 0.767);
+    font-family: 'Poppins', sans-serif;
+}
