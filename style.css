@@ -1,12 +1,14 @@
-html, .whole{
-    background-color: antiquewhite;
-   
+div{
+    margin:auto;
+}
+.container{
+    background-color: rgb(100, 0, 0);
+    color:rgb(238, 187, 191);
+    border-radius: 15px 15px 15px 15px;
+    box-shadow:5px 5px 900px rgb(131, 131, 202);
 }
 
-.container{
-    background-color: aliceblue;
-    color:darkblue;
-    border-radius: 15px 15px 15px 15px;
-    box-shadow: 10px 5px 5px rgba(0, 23, 126, 0.767);
-    font-family: 'Poppins', sans-serif;
+.table {
+
+
 }

@@ -1,0 +1,61 @@
+{
+    "schedule": [
+        {
+            "Class": "AP Computer Science",
+            "Teacher": "Mrs.Rehwinkle",
+            "Room": "234",
+            "Period": 1,
+            "Days": ["A", "B", "C","E","F"]
+        },
+        {
+            "Class": "AP Studio Art Drawing",
+            "Teacher": "Mrs.Frazer",
+            "Room": "101",
+            "Period": 2,
+            "Days": ["A", "B", "D", "E", "F"]
+        },
+        {
+            "Class": "Honors Cybersecurity & Computer Programming",
+            "Teacher": "Mrs.Rehwinkle",
+            "Room": "234",
+            "Period": 3,
+            "Days": ["A", "C", "D", "E", "G"]
+        },
+        
+        {
+            "Class": "AP Economics",
+            "Teacher": "Mr.Anderson",
+            "Room": "106",
+            "Period": 4,
+            "Days": [ "B", "C", "D",  "F", "G"]
+        },
+        {
+            "Class": "Lunchtime!",
+            "Teacher": "N/A",
+            "Room": "Caf",
+            "Period":"lunch" ,
+            "Days": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+            "Class": "Health/Gym",
+            "Teacher": "Assorted",
+            "Room": "GYM",
+            "Period": 5,
+            "Days": ["A", "B", "D", "E", "G"]
+        },
+        {
+            "Class": "AP English Lit & Comp",
+            "Teacher": "Mrs.Rivera",
+            "Room": "123",
+            "Period": 6,
+            "Days":["A", "C", "D", "F", "G"]
+        },
+        {
+            "Class": "Honors NJIT IS219 Advanced Website Development WDP",
+            "Teacher": "Mr.Kilgore",
+            "Room": "111",
+            "Period": 7,
+            "Days": [ "B", "C", "E",  "F", "G"]
+        }
+    ]
+}
